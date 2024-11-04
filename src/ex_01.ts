@@ -1,1 +1,2 @@
-// Write code for the first exercise here and so on.
+let letters: string[] = ['h','o','l','a'];
+console.log (letters)
